@@ -17,5 +17,6 @@ dependencies:
   - tk=8.6.8
   - tktable=2.10
   - r-tidyselect=0.2.5
+  - pip=20.0.2
   - pip:
     - ipython-sql==0.3.9
